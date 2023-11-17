@@ -1,0 +1,18 @@
+#para{
+    text-align: center;
+    padding: 150px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+#next{
+    padding: 20px;
+    margin-top: 20px;
+    background: red;
+    color: white;
+}
+#para1{
+    font-size: 30px;
+}
